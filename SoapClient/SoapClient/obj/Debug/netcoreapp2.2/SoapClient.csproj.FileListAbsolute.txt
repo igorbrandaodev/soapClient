@@ -1,0 +1,32 @@
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.deps.json
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.runtimeconfig.json
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.runtimeconfig.dev.json
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.dll
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.pdb
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.csprojAssemblyReference.cache
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.AssemblyInfo.cs
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.dll
+C:\Users\igor\Desktop\SOAP Client\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.deps.json
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.runtimeconfig.json
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.runtimeconfig.dev.json
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.dll
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.csprojAssemblyReference.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.csproj.CoreCompileInputs.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.AssemblyInfoInputs.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.AssemblyInfo.cs
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.dll
+C:\Users\igor\Documents\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.pdb
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.deps.json
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.runtimeconfig.json
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.runtimeconfig.dev.json
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.dll
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\bin\Debug\netcoreapp2.2\SoapClient.pdb
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.csprojAssemblyReference.cache
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.AssemblyInfoInputs.cache
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.AssemblyInfo.cs
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.dll
+C:\Users\igorb\MEGA\Trabalho\Code\+\SoapClient\SoapClient\obj\Debug\netcoreapp2.2\SoapClient.pdb
